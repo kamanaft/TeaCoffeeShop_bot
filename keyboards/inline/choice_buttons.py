@@ -20,7 +20,6 @@ tea_keyboard = InlineKeyboardMarkup(inline_keyboard=[
         InlineKeyboardButton(text="Buy here", url=URL_TEA)
     ]
 ])
-
 coffee_keyboard = InlineKeyboardMarkup(inline_keyboard=[
     [
         InlineKeyboardButton(text="Buy here", url=URL_COFFEE)
